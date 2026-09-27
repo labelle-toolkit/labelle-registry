@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "defaults": [],
+  "providers": [
+    {
+      "package": "android",
+      "repo": "labelle-toolkit/labelle-android",
+      "version": "0.2.0",
+      "commit": "8caa8aa16237d5d2f1cc3ee5cfa195ab5194768c",
+      "sha256": "bae68d39bedbef0ea6ed5607584e2398fab254bb5e0bf746a825781b52907b75",
+      "namespace": "android",
+      "targets": ["android"]
+    },
+    {
+      "package": "web",
+      "repo": "labelle-toolkit/labelle-web",
+      "version": "0.2.0",
+      "commit": "1d669eea770ec74108f2bc30fa5a0aed5d5a27ad",
+      "sha256": "d9cf119d545f30c04935ee652bd77c8c718c47e4549f6023ba29ade2a7fe7e8e",
+      "namespace": "web",
+      "targets": ["wasm"]
+    }
+  ]
+}
