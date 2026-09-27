@@ -4,7 +4,19 @@ Source of truth for Labelle provider namespace ownership and versioned package-i
 
 ## Status
 
-Repository scaffold only. No index schema, namespace records, release entries, or publishing workflow is active yet. This repository is not a live package registry endpoint.
+`providers.json` is live and read by labelle-cli (`labelle providers resolve`) from
+`https://raw.githubusercontent.com/labelle-toolkit/labelle-registry/main/providers.json`.
+It uses registry schema 2 (provider contract §4, labelle-cli `docs/provider-contract-v1.md`):
+
+- each record pins one release: `package`, `repo`, `version`, the full `commit`, and the
+  `sha256` of `https://codeload.github.com/<repo>/tar.gz/<commit>`;
+- `namespace` and `targets` repeat what that release's `plugin.labelle` declares, so the CLI
+  can name the owner of a missing target or namespace without downloading archives
+  (`--accept` checks them against the verified manifest);
+- `defaults` lists the exact releases `labelle init` proposes. It is empty for now.
+
+Adding a release means appending a record in a reviewed PR. Records are never edited or
+removed once a project may have pinned them.
 
 ## Planned responsibilities
 
