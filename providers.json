@@ -28,6 +28,15 @@
       "sha256": "d9cf119d545f30c04935ee652bd77c8c718c47e4549f6023ba29ade2a7fe7e8e",
       "namespace": "web",
       "targets": ["wasm"]
+    },
+    {
+      "package": "ios",
+      "repo": "labelle-toolkit/labelle-ios",
+      "version": "0.1.0",
+      "commit": "69941fbaf633a566f71ae5ddae9525ef0391fd1e",
+      "sha256": "d541c0fa7ce3bae653dd715c560396f4d64d8b99a741e95ca50d977f0d8fc720",
+      "namespace": null,
+      "targets": ["ios"]
     }
   ]
 }
