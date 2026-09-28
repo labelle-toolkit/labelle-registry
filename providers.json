@@ -30,6 +30,15 @@
       "targets": ["wasm"]
     },
     {
+      "package": "web",
+      "repo": "labelle-toolkit/labelle-web",
+      "version": "0.3.0",
+      "commit": "6aa21c6fd86cbb62b945f0cd274c1ce84a339ed3",
+      "sha256": "6f3768251e0aadcfcc5a11a12b4b68bab857e232d0ceb12e7ad7e39b70a36a44",
+      "namespace": "web",
+      "targets": ["wasm"]
+    },
+    {
       "package": "ios",
       "repo": "labelle-toolkit/labelle-ios",
       "version": "0.1.0",
