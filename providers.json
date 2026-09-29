@@ -66,6 +66,15 @@
       "targets": ["wasm"]
     },
     {
+      "package": "sdl2",
+      "repo": "labelle-toolkit/labelle-sdl",
+      "version": "0.4.0",
+      "commit": "e26b2039957ed7a26c78d7708ad0528c407ed57e",
+      "sha256": "bea3dc3b0e7a2ede3c88e79cb55515a2d7c28dc703d13d009980e181284be6ab",
+      "namespace": "sdl2",
+      "targets": []
+    },
+    {
       "package": "ios",
       "repo": "labelle-toolkit/labelle-ios",
       "version": "0.1.0",
