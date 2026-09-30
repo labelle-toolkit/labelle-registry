@@ -39,6 +39,15 @@
       "targets": ["android"]
     },
     {
+      "package": "android",
+      "repo": "labelle-toolkit/labelle-android",
+      "version": "0.4.0",
+      "commit": "6bcad927e3ee33f20b523725452ddc00254979df",
+      "sha256": "01abb9779cc6018cd826ebd9698504772687605a8008f0a9a7d86a6cade3b40c",
+      "namespace": "android",
+      "targets": ["android"]
+    },
+    {
       "package": "web",
       "repo": "labelle-toolkit/labelle-web",
       "version": "0.2.0",
