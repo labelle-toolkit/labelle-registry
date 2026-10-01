@@ -109,6 +109,15 @@
       "sha256": "d541c0fa7ce3bae653dd715c560396f4d64d8b99a741e95ca50d977f0d8fc720",
       "namespace": null,
       "targets": ["ios"]
+    },
+    {
+      "package": "ios",
+      "repo": "labelle-toolkit/labelle-ios",
+      "version": "0.2.0",
+      "commit": "f17f7bb275d205069fc41c01b12d8eefae092159",
+      "sha256": "d49f0e12efd73f6ca1532725ef6b450929ab594594eb21d9c978fb9e9c4a1cc1",
+      "namespace": "ios",
+      "targets": ["ios"]
     }
   ]
 }
