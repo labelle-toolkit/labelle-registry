@@ -9,9 +9,7 @@
       "commit": "8caa8aa16237d5d2f1cc3ee5cfa195ab5194768c",
       "sha256": "bae68d39bedbef0ea6ed5607584e2398fab254bb5e0bf746a825781b52907b75",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     },
     {
       "package": "android",
@@ -20,9 +18,7 @@
       "commit": "e14fa5bd8e60b67b5f712b6f3de7059515ae3922",
       "sha256": "7479b6989ebb0194da8fcad5e4f4ffc6600f8c92b4f6a199888fa52b1e023470",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     },
     {
       "package": "android",
@@ -31,9 +27,7 @@
       "commit": "537f2b6c79c8c6fac0cae446ff97f8c57bc02422",
       "sha256": "749bceef56cc6cee4adf5eb06be3a59a833c220ff62bac6c45dbf9730d8593d5",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     },
     {
       "package": "android",
@@ -42,9 +36,7 @@
       "commit": "e76df12d34d27d53b99287f6172e41a5278489f9",
       "sha256": "014f477e14e3e07ca2a48a9bd17806ac1db38b6caea02a629acb7fdd1b5e6781",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     },
     {
       "package": "android",
@@ -53,9 +45,7 @@
       "commit": "6bcad927e3ee33f20b523725452ddc00254979df",
       "sha256": "01abb9779cc6018cd826ebd9698504772687605a8008f0a9a7d86a6cade3b40c",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     },
     {
       "package": "android",
@@ -64,9 +54,7 @@
       "commit": "dadab4cdff7c8f4d6fe306a2bccb2ff5dc8ffefb",
       "sha256": "648758a630c12405fe280998e107494b46b80528865bbff9e3103fffb0356602",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     },
     {
       "package": "web",
@@ -75,9 +63,7 @@
       "commit": "1d669eea770ec74108f2bc30fa5a0aed5d5a27ad",
       "sha256": "d9cf119d545f30c04935ee652bd77c8c718c47e4549f6023ba29ade2a7fe7e8e",
       "namespace": "web",
-      "targets": [
-        "wasm"
-      ]
+      "targets": ["wasm"]
     },
     {
       "package": "web",
@@ -86,9 +72,7 @@
       "commit": "6aa21c6fd86cbb62b945f0cd274c1ce84a339ed3",
       "sha256": "6f3768251e0aadcfcc5a11a12b4b68bab857e232d0ceb12e7ad7e39b70a36a44",
       "namespace": "web",
-      "targets": [
-        "wasm"
-      ]
+      "targets": ["wasm"]
     },
     {
       "package": "web",
@@ -97,9 +81,7 @@
       "commit": "8f687b95541a3e7fa74532d1cc7abfcfe8f2310e",
       "sha256": "571c018ad1e0cb887c2ca506bc2b2f236bb94ba5e7a70329417330b518b3f4ee",
       "namespace": "web",
-      "targets": [
-        "wasm"
-      ]
+      "targets": ["wasm"]
     },
     {
       "package": "web",
@@ -108,9 +90,7 @@
       "commit": "7552d17211f8734940de963752f0a3065295cd90",
       "sha256": "7ae7cfce0de6ee36173add831ad982e3a1eab5942e51b40ae2a62248c4c9923e",
       "namespace": "web",
-      "targets": [
-        "wasm"
-      ]
+      "targets": ["wasm"]
     },
     {
       "package": "web",
@@ -119,9 +99,7 @@
       "commit": "f6b23a95d4ee6d5a94ab530402a6afd32884b378",
       "sha256": "2b9c06223f813fe62af1363cd609da9f90a95cc6d6a5f80d7efce680a3176895",
       "namespace": "web",
-      "targets": [
-        "wasm"
-      ]
+      "targets": ["wasm"]
     },
     {
       "package": "sdl2",
@@ -139,9 +117,7 @@
       "commit": "69941fbaf633a566f71ae5ddae9525ef0391fd1e",
       "sha256": "d541c0fa7ce3bae653dd715c560396f4d64d8b99a741e95ca50d977f0d8fc720",
       "namespace": null,
-      "targets": [
-        "ios"
-      ]
+      "targets": ["ios"]
     },
     {
       "package": "ios",
@@ -150,9 +126,7 @@
       "commit": "f17f7bb275d205069fc41c01b12d8eefae092159",
       "sha256": "d49f0e12efd73f6ca1532725ef6b450929ab594594eb21d9c978fb9e9c4a1cc1",
       "namespace": "ios",
-      "targets": [
-        "ios"
-      ]
+      "targets": ["ios"]
     },
     {
       "package": "android",
@@ -161,9 +135,7 @@
       "commit": "7a656dfa11bae3305df1313839830ee6862446ef",
       "sha256": "1eae568c4b1d853e376281e0787dce7fdd2d140ec2406e9f9d5a0a403a423943",
       "namespace": "android",
-      "targets": [
-        "android"
-      ]
+      "targets": ["android"]
     }
   ]
 }
