@@ -102,6 +102,15 @@
       "targets": ["wasm"]
     },
     {
+      "package": "web",
+      "repo": "labelle-toolkit/labelle-web",
+      "version": "0.5.0",
+      "commit": "e5dcac43b1a37ebe5312b89f6b8fa8ba58086d19",
+      "sha256": "0ea06f321d1ac43ba1241e2baa48ff8827f8af6450b40e3ffc7de227a301c707",
+      "namespace": "web",
+      "targets": ["wasm"]
+    },
+    {
       "package": "sdl2",
       "repo": "labelle-toolkit/labelle-sdl",
       "version": "0.4.0",
