@@ -145,6 +145,15 @@
       "sha256": "1eae568c4b1d853e376281e0787dce7fdd2d140ec2406e9f9d5a0a403a423943",
       "namespace": "android",
       "targets": ["android"]
+    },
+    {
+      "package": "android",
+      "repo": "labelle-toolkit/labelle-android",
+      "version": "0.7.0",
+      "commit": "6adcd3e6470184ba79f414eb1315b216a73d8691",
+      "sha256": "3d724e400f2230eb4df5e0a0a9803a0a152389154eb9ac11ef997126058d3ee3",
+      "namespace": "android",
+      "targets": ["android"]
     }
   ]
 }
